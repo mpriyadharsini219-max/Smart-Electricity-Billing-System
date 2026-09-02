@@ -13,7 +13,6 @@ A Java + MySQL based Electricity Billing Management System developed to manage e
 ## Technologies Used
 - Java
 - MySQL
-- JDBC
 - HTML
 - CSS
 
