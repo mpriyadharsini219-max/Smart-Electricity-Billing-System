@@ -28,5 +28,4 @@ A Java + MySQL based Electricity Billing Management System developed to manage e
 - Email Notifications
 - Usage Analytics Dashboard
 
-## Author
-Priya
+
